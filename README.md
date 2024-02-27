@@ -10,7 +10,8 @@ This app can also be used with Viewtron security camera DVRs and IP camera NVRs.
 To specify which camera channel you want to get the snapshot from, add the camera's channel
 number on the end of the URL.
 
-Viewtron IP cameras can be purchased online at http://www.Viewtron.com
+Viewtron IP cameras can be purchased online at:
+https://www.cctvcamerapros.com/viewtron-IP-cameras-s/1474.htm
 
 This app was written by Mike Haldas, co-founder of CCTV Camera Pros.
 You can reach me at mike@cctvcamerapros.net
